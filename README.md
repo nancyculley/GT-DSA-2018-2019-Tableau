@@ -20,31 +20,31 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 * By what percentage has total ridership grown? 
 
-* How has the proportion of short-term customers and annual subscribers changed? NANCY
+* How has the proportion of short-term customers and annual subscribers changed?
 
-* What are the peak hours in which bikes are used during summer months? LYLE
+* What are the peak hours in which bikes are used during summer months? 
 
-* What are the peak hours in which bikes are used during winter months? LYLE
+* What are the peak hours in which bikes are used during winter months? 
 
-* Today, what are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?) LAWRENCE
+* Today, what are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?) 
 
-* Today, what are the top 10 stations in the city for ending a journey? (Based on data, why?) LAWRENCE
+* Today, what are the top 10 stations in the city for ending a journey? (Based on data, why?) 
 
-* Today, what are the bottom 10 stations in the city for starting a journey? (Based on data, why?) LAWRENCE
+* Today, what are the bottom 10 stations in the city for starting a journey? (Based on data, why?) 
 
-* Today, what are the bottom 10 stations in the city for ending a journey (Based on data, why?) LAWRENCE
+* Today, what are the bottom 10 stations in the city for ending a journey (Based on data, why?) 
 
-* Today, what is the gender breakdown of active participants (Male v. Female)? NANCY
+* Today, what is the gender breakdown of active participants (Male v. Female)? 
 
-* How effective has gender outreach been in increasing female ridership over the timespan? NANCY
+* How effective has gender outreach been in increasing female ridership over the timespan? 
 
-* How does the average trip duration change by age? LYLE
+* How does the average trip duration change by age?
 
-* What is the average distance in miles that a bike is ridden? NANCY
+* What is the average distance in miles that a bike is ridden? 
 
-* Which bikes (by ID) are most likely due for repair or inspection in the timespan? LYLE
+* Which bikes (by ID) are most likely due for repair or inspection in the timespan?
 
-* How variable is the utilization by bike ID? LAWRENCE
+* How variable is the utilization by bike ID? 
 
 **Additionally, city officials would like to see the following visualizations:**
 
